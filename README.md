@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rifkyramadan18
-- 👀 I’m interested in UI/UX and FrontEnd Dev
+- 👀 I’m interested in FrontEnd Dev
 - 🌱 I’m currently learning Next Js and Express Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on rifkylamongan18@gmail.com
